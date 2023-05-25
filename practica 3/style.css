@@ -1,0 +1,22 @@
+
+body{
+    background-color: #d88f8f;
+    padding: 15px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(233, 27, 198, 0.952);
+}
+#sech{
+    display: flex;
+}
+.imgh{
+    height: 70px;
+    width: 70px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(233, 17, 168, 0.952);
+}
